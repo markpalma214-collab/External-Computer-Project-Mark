@@ -6,7 +6,7 @@ db = client["mydatabase"]
 collection = db["mycollection"] # not table, dictionary data
 
 
-def create():E
+def create():
     name = input("Enter name: ")
     city = input("Enter city: ")
     interest = input("Enter interest: ")

@@ -1,0 +1,5 @@
+10.10.8.223
+pyinstaller --onefile --windowed client.py
+pip install pygame
+pyinstaller --onefile --windowed client.py
+pip install pyinstaller
